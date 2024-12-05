@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "limits": "c",
+        "ratio": "c",
+        "algorithm": "c"
+    }
+}
